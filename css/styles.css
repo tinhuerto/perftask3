@@ -1,7 +1,7 @@
 body{
 	font-size:16px;
 	color:#fff;
-	background-color:#61122f;
+	
 	font-family:'Oxygen',san-serif;
 }
 
@@ -13,7 +13,7 @@ text-align: center;
 
 
 #header-nav {
-	background-color: #f6b319;
+	background-color: #E7E7E7;
 	border-radius: 0;
 	border: 0;
 }
